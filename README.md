@@ -1,4 +1,4 @@
-# About-me-
+
 # 💫 About Me:
 💫 Sobre mim<br><br>👋 Olá! Meu nome é João Pedro, seja bem-vindo ao meu GitHub!<br><br>💻 Sou estudante de programação e tecnologia, atualmente desenvolvendo meus conhecimentos em desenvolvimento web e buscando evoluir cada vez mais na área.<br><br>🎓 Atualmente, estou estudando:<br><br>- 🐘 PHP<br>- 🌐 HTML<br>- 🎨 CSS<br>- 💻 Visual Studio Code<br><br>🚀 Tenho conhecimentos básicos em informática e tecnologia, muita vontade de aprender e interesse em transformar ideias em projetos.<br><br>📚 Estou sempre buscando novos conhecimentos, desenvolvendo minhas habilidades e explorando novas tecnologias.<br><br>🎯 Meu objetivo: me tornar um desenvolvedor cada vez melhor, criar projetos e crescer profissionalmente na área de tecnologia.<br><br>---<br><br>🛠️ Tecnologias e ferramentas<br><br>PHP | HTML | CSS | Visual Studio Code | Git | GitHub<br><br>📫 Vamos nos conectar?<br><br>Obrigado por visitar meu perfil! Fique à vontade para acompanhar meus projetos e minha evolução na programação. 🚀
 
